@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "elasticsearch": "^15.2.0",
+    "find": "^0.2.9",
+    "simple-git": "^1.107.0",
+    "sloc": "^0.2.0"
+  }
+}
