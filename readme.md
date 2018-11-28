@@ -46,3 +46,4 @@ Running `index.js` prunes the index and collects everything again.
 * [ ] Index since the beginning of time
 * [ ] Collect additional metrics (# of classes in TS/JS, style rules in CSS, ...)
 * [ ] Collect amount of services/directives/controller for each file
+* [ ] Merge with information about code coverage / linting errors
